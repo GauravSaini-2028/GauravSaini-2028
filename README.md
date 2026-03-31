@@ -1,9 +1,92 @@
 # 💫 About Me:
-👋 Hi, I’m Gaurav Saini<br><br>🚀 Aspiring DevOps Engineer with hands-on experience in building, automating, and deploying real-world cloud-native applications. I enjoy turning ideas into scalable systems using modern DevOps tools and best practices.<br><br>🔧 Tech Stack & Tools<br><br>Cloud: AWS (EC2, S3, IAM, EKS – beginner to practical)<br><br>DevOps: Docker, Kubernetes, Jenkins, Terraform<br><br>CI/CD: End-to-end pipelines with security & automation<br><br>OS & Scripting: Linux, Bash<br><br>Version Control: Git & GitHub<br><br>🛠 Projects I’ve Worked On<br><br>🔹 Wanderlust CI/CD DevSecOps Pipeline – automated build, test, security scan, and deployment<br><br>🔹 Three-Tier Application Deployment on AWS EKS<br><br>🔹 Real-Time Chat Application using Docker & Kubernetes<br><br>🔹 IoT-based Smart Systems (FloodMate & Peelie Bin – academic projects)<br><br>🎯 What I’m Currently Doing<br><br>Preparing for DevOps internships & junior roles<br><br>Practicing Kubernetes, Terraform, and AWS deployments<br><br>Improving system design & production-level DevOps workflows<br><br>🌱 What Drives Me<br>I believe in learning by building, breaking things, fixing them, and automating everything 🚀<br>
+👋 Hi, I’m **Gaurav Saini**  
 
+🚀 **Aspiring DevOps & Cloud Engineer** with hands-on experience in building **scalable, secure, and automated cloud-native systems**. I specialize in designing **end-to-end CI/CD pipelines, Kubernetes deployments, and infrastructure automation** using modern DevOps practices.  
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Unicron-2028) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Gaurav Saini) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurav-saini-920641249) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Gaurav Saini) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravsaini2028@gmail.com) 
+💡 I focus on **real-world problem solving**—from reducing deployment time to improving system reliability and implementing DevSecOps practices.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+---
+
+# 🔧 Tech Stack & Tools:
+
+### ☁️ Cloud & Infrastructure  
+- AWS (EC2, S3, IAM, Lambda, RDS, VPC, Route53, CloudWatch)  
+- Terraform, CloudFormation  
+
+### ⚙️ DevOps & CI/CD  
+- Jenkins, GitHub Actions  
+- ArgoCD (GitOps)  
+- CI/CD pipelines with automation & security  
+
+### 🐳 Containers & Orchestration  
+- Docker, Docker Compose  
+- Kubernetes (AWS EKS), Helm  
+
+### 🔐 DevSecOps  
+- SonarQube, Trivy, OWASP Dependency-Check  
+
+### 📊 Monitoring & Logging  
+- Prometheus, Grafana, AWS CloudWatch  
+
+### 💻 Programming & Scripting  
+- Python, Bash, C++, SQL, YAML  
+
+---
+
+# 🛠 Featured Projects:
+
+### 🔹 Wanderlust DevSecOps CI/CD & GitOps Pipeline  
+- Built **end-to-end CI/CD pipeline** reducing deployment time by **40%**  
+- Implemented **DevSecOps** → reduced vulnerabilities by **60%**  
+- Achieved **zero-downtime deployments** using ArgoCD (GitOps)  
+- Deployed **3-tier MERN app on AWS EKS** with monitoring (Prometheus + Grafana)  
+
+---
+
+### 🔹 Retail Microservices GitOps Deployment  
+- Designed **5-service microservices architecture** using Terraform  
+- Achieved **100% Infrastructure as Code consistency**  
+- Automated container workflows with GitHub Actions & ECR  
+- Managed traffic using **NGINX Ingress Controller**  
+
+---
+
+### 🔹 Three-Tier Application Deployment on AWS EKS  
+- Automated infrastructure provisioning → reduced setup time by **80%**  
+- Integrated **Jenkins + Terraform + Kubernetes**  
+- Configured load balancing & container registry (ECR)  
+
+---
+
+### 🔹 IoT Systems (Academic Projects)  
+- **FloodMate** → Real-time flood monitoring system using IoT  
+- **Peelie Bin** → Smart composting system with automation & sensors  
+
+---
+
+# 💼 Experience:
+### ☁️ AWS Cloud Trainee  
+- Deployed and managed AWS applications with **99.9% availability**  
+- Improved response time by **20%** through optimization  
+- Reduced incident detection time by **30%** using CloudWatch  
+
+---
+
+# 🎯 What I’m Currently Doing:
+- Preparing for **DevOps internships & entry-level roles**  
+- Deepening expertise in **Kubernetes, Terraform, and AWS architecture**  
+- Building **production-grade DevOps projects**  
+
+---
+
+# 🌱 What Drives Me:
+👉 *“Build → Break → Fix → Automate → Scale”*  
+
+I enjoy solving complex infrastructure problems and continuously improving systems for **performance, reliability, and scalability** 🚀  
+
+---
+
+# 🌐 Connect With Me:
+- 💼 LinkedIn: https://www.linkedin.com/in/gaurav-saini-920641249/  
+- 💻 GitHub: https://github.com/GauravSaini-2028  
+- 📧 Email: gauravsaini2028@gmail.com  
